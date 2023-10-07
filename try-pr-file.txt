@@ -1,3 +1,7 @@
 this statement is writen by tempuser
 this statement is writen by tempuser when parn was working on this file 
+<<<<<<< HEAD
 again this was added by temp user when parn wrote his 1st line
+=======
+this is writen by parn jain
+>>>>>>> 3a7f868 (parn jain)
